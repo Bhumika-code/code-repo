@@ -1,12 +1,10 @@
 # code-repo
 code repository
 
+## sub header
 
-## Sub header
+watch you tube tutorial.
 
-Watch YouTube tutorial.
+## local development
 
-## Local development 
-
-1.Open index.html in your browser
-
+1.open index.html in your browser
